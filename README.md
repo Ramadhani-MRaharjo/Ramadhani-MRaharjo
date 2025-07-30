@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎯 Hello everyone, My Name is Dhani !
+Hello everyone, My Name is Dhani !
 a student of Information Technology at Brawijaya University, and I am actively involved in student organizations, with a strong interest in **Quality Assurance Testing**, **IT Support**, **Frontend Web Development**, and **UI/UX Design**. My journey in the field of technology is driven by curiosity and a desire to solve real-world problems through technology.
 
 I thrive in collaborative environments and enjoy complex challenges that push me to grow. Through academic and organizational experiences, I have honed my **problem-solving**, **leadership**, and **teamwork skills**, which I bring to every project I undertake.
@@ -65,14 +65,14 @@ Currently, I am seeking opportunities to apply and develop my skills through pra
 
 ## 📜 Certifications
 
-✅ OpenEDG — PCAP: Programming Essentials in Python
-✅ Alterra Indonesia —  Fundamental Mobile Development With Flutter
-✅ Oracle Academy — AWARD of FINAL EXAM COMPLETION [Java Foundations]
-✅ Oracle Academy —  AWARD of FINAL EXAM COMPLETION [Java Fundamentals]
-✅ Sololearn —  Database Basics: Understanding how data is stored in relational databases.
-✅ Universitas Merdeka Malang —  Test of English as a Foreign Language [TOEFL]
-- TOEFL Equivalent Score: 593
-- Level: Upper Intermediate
+- OpenEDG — PCAP: Programming Essentials in Python
+- Alterra Indonesia —  Fundamental Mobile Development With Flutter
+- Oracle Academy — AWARD of FINAL EXAM COMPLETION [Java Foundations]
+- Oracle Academy —  AWARD of FINAL EXAM COMPLETION [Java Fundamentals]
+- Sololearn —  Database Basics: Understanding how data is stored in relational databases.
+- Universitas Merdeka Malang —  Test of English as a Foreign Language [TOEFL]
+TOEFL Equivalent Score: 593
+Level: Upper Intermediate
 
 ---
 
