@@ -71,8 +71,8 @@ Currently, I am seeking opportunities to apply and develop my skills through pra
 - Oracle Academy —  AWARD of FINAL EXAM COMPLETION [Java Fundamentals]
 - Sololearn —  Database Basics: Understanding how data is stored in relational databases.
 - Universitas Merdeka Malang —  Test of English as a Foreign Language [TOEFL]
-TOEFL Equivalent Score: 593
-Level: Upper Intermediate
+*- TOEFL Equivalent Score: 593*
+*- Level: Upper Intermediate*
 
 ---
 
