@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hello👋;+I'am+Ramadhani+Maulana+R!;" />
 </h1>
 
----
-
 # 💫 About Me:
 
 <div align="center">
