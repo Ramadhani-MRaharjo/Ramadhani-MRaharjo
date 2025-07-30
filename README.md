@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atikfriana.atikfriana"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ramadhani-MRaharjo.Ramadhani-MRaharjo" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello👋;+I'am+Ramadhani+Maulana R;" />
@@ -65,12 +65,12 @@ Currently, I am seeking opportunities to apply and develop my skills through pra
 
 ## 📜 Certifications
 
-✅ OpenEDG - PCAP: Programming Essentials in Python
-✅ Alterra Indonesia - Fundamental Mobile Development With Flutter
-✅ Oracle Academy - AWARD of FINAL EXAM COMPLETION [Java Foundations]
-✅ Oracle Academy - AWARD of FINAL EXAM COMPLETION [Java Fundamentals]
-✅ Sololearn - Database Basics: Understanding how data is stored in relational databases.
-✅ Universitas Merdeka Malang - Test of English as a Foreign Language [TOEFL]
+✅ OpenEDG — PCAP: Programming Essentials in Python
+✅ Alterra Indonesia —  Fundamental Mobile Development With Flutter
+✅ Oracle Academy — AWARD of FINAL EXAM COMPLETION [Java Foundations]
+✅ Oracle Academy —  AWARD of FINAL EXAM COMPLETION [Java Fundamentals]
+✅ Sololearn —  Database Basics: Understanding how data is stored in relational databases.
+✅ Universitas Merdeka Malang —  Test of English as a Foreign Language [TOEFL]
 - TOEFL Equivalent Score: 593
 - Level: Upper Intermediate
 
